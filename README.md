@@ -1,2 +1,2 @@
-https://github.com/iwannaunik/goit-markup-hw-03/
+ https://iwannaunik.github.io/goit-markup-hw-03/
  
